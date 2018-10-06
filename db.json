@@ -1,7 +1,9 @@
-{
-  "groups": [
-    { "id": 1, "name": "Group 1" },
-    { "id": 2, "name": "Group 2" },
-    { "id": 3, "name": "Group 3" }
+
+  "players": [
+    { "id": 1, "name": "Hazard" },
+    { "id": 2, "name": "Jorginho" },
+    { "id": 3, "name": "Kante" },
+     { "id": 4, "name": "Messi" },
+     { "id": 5, "name": "Ronaldo" }
   ]
 }
